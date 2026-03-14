@@ -44,6 +44,7 @@ Logistic Regression, Hyperparameter Optimization, GridSearchCV, Feature Engineer
 Tableau & Power BI dashboard summarizing key findings across content distribution, 
 moderation patterns, and engagement behavior by claim type.
 
+![Alt text](TableauDashboard.png)
 
 <img width="1993" height="1120" alt="Screenshot 2026-03-08 220150" src="https://github.com/user-attachments/assets/d00c57bd-82ad-4a39-b711-13fd3c28e01b" />
 
